@@ -1,4 +1,3 @@
-# ocaml-database-dependencies
 # OCaml Database Dependencies
 
 A functional programming project in OCaml focused on relational databases, functional dependencies, candidate keys, and database normalization.
