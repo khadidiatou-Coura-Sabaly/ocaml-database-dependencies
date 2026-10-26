@@ -1,0 +1,19 @@
+
+# OCaml compiled files
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.a
+*.byte
+*.native
+
+# Generated executable
+test
+
+# Build directories
+_build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
